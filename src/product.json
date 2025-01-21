@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "title": "shirt",
+      "description": "its a shirt",
+      "image": "src/views/img/shirt.jpg",
+      "price": "$1"
+    },
+    {
+      "id": 2,
+      "title": "pants",
+      "description": "its a pants",
+      "image": "src/views/img/pants.jpg",
+      "price": "$1"
+    },
+    {
+      "id": 3,
+      "title": "shoes",
+      "description": "its a shoes",
+      "image": "src/views/img/shoes.jpg",
+      "price": "$1"
+    },
+    {
+      "id": 4,
+      "title": "bag",
+      "description": "its a bag",
+      "image": "src/views/img/bag.jpg",
+      "price": "$1"
+    },
+    {
+      "id": 5,
+      "title": "watch",
+      "description": "its a watch",
+      "image": "src/views/img/watch.jpg",
+      "price": "$1"
+    },
+    {
+      "id": 6,
+      "title": "cape",
+      "description": "its a cape",
+      "image": "src/views/img/cape.jpg",
+      "price": "$1"
+    },
+    {
+      "id": 7,
+      "title": "sock",
+      "description": "its a socks",
+      "image": "src/views/img/sock.jpg",
+      "price": "$1"
+    },
+    {
+      "id": 8,
+      "title": "hat",
+      "description": "its a hat",
+      "image": "src/views/img/hat.jpg",
+      "price": "$1"
+    },
+    {
+      "id": 9,
+      "title": "glass",
+      "description": "its a glass",
+      "image": "src/views/img/glass.png",
+      "price": "$1"
+    },
+    {
+      "id": 10,
+      "title": "gloves",
+      "description": "its a gloves",
+      "image": "src/views/img/gloves.jpg",
+      "price": "$1"
+    }
+  ]
